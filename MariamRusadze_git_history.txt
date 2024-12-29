@@ -1,0 +1,5 @@
+commit 180bd25d91d055d4721098120d428fc4aed86fad
+Author: MariamRusadze <222572@edu.fa.ru>
+Date:   Sun Dec 29 18:23:10 2024 +0400
+
+    Realization of the project
